@@ -1,3 +1,5 @@
 package b
 
-const Name = "Gopher"
+func sum(a, b int) int {
+	return a + b
+}
